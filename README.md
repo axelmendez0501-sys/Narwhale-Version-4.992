@@ -1,0 +1,13 @@
+# Narwhale.io – Old Version 4.922 (Local Server)
+
+This project recreates version **4.922** of *Narwhale.io* and allows it to be run locally.
+
+The system is divided into two main parts:
+
+- **server.js** → Express server to host the website (Frontend).
+
+- **websocket_test.js** → WebSocket server that runs the game logic (Narwhale Backend).
+
+---
+
+## 📌 Project Structure
